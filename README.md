@@ -1,0 +1,6 @@
+# TIL
+
+
+```python
+print("Hi")
+```
