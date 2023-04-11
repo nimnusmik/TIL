@@ -1,6 +1,1 @@
-# TIL
-
-
-```python
-print("Hi")
-```
+### TIL
